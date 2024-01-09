@@ -25,4 +25,4 @@ Feel free to explore and customize the cube by tweaking the colors, dimensions, 
 
 ---
 
-Don't forget to replace `"link_to_your_image_here"` in the preview section with an actual link to an image preview of your rotating cube. This README will help users understand your project and how to get it up and running!
+ This README will help you to understand my project and how to get it up and running!
